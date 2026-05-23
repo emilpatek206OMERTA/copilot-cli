@@ -194,3 +194,4 @@ else
   echo ""
   echo "Installation complete! Run 'copilot help' to get started."
 fi
+yes
